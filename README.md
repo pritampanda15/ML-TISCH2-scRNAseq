@@ -3,15 +3,6 @@ A Machine-Learning regression models implemented in Python, including Ridge, Ran
 
 This repository contains various regression models implemented in Python, including Ridge, Random Forest, Gradient Boosting, SVR, and a neural network using Keras.
 
-## Table of Contents
-- [Overview](#overview)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Models](#models)
-- [Results](#results)
-- [Visualization](#visualization)
-- [Contributing](#contributing)
-- [License](#license)
 
 ## Overview
 This project demonstrates the use of different regression techniques to predict continuous outcomes. The models included are:
