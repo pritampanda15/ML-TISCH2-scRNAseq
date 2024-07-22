@@ -1,9 +1,6 @@
 # ML-TISCH2-scRNAseq
 A Machine-Learning regression models implemented in Python, including Ridge, Random Forest, Gradient Boosting, SVR, and a neural network using Keras for scRNAseq datasets from TISCH2 analyzed using Seurat package. 
 
-This repository contains various regression models implemented in Python, including Ridge, Random Forest, Gradient Boosting, SVR, and a neural network using Keras.
-
-
 ## Overview
 This project demonstrates the use of different regression techniques to predict continuous outcomes. The models included are:
 - Ridge Regression
