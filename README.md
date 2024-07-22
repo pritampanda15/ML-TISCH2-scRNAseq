@@ -35,14 +35,14 @@ pandas
 matplotlib
 ```
 
-Usage
+### Usage
 
     Data Preparation: Ensure your data is properly formatted and preprocessed.
     Training Models: Use the provided scripts to train the different regression models.
     Evaluating Models: Evaluate the performance of each model using appropriate metrics.
 
 
-Models
+### Models
 
     Ridge Regression: Regularized linear regression to prevent overfitting.
     Random Forest Regressor: Ensemble method that uses multiple decision trees.
@@ -50,16 +50,17 @@ Models
     Support Vector Regressor (SVR): Uses support vector machines for regression tasks.
     Neural Network (Keras): Deep learning model implemented using Keras.
 
-Results
+### Results
 
 The performance of each model is evaluated using mean squared error (MSE) and other relevant metrics. Detailed results can be found in the results directory.
-Visualization
 
-The architecture of the neural network model is saved as an image:
+### Visualization
+The architecture of the neural network model is saved as an image
 
-Contributing
+### Contributing
 
 Contributions are welcome! Please create a pull request or open an issue to discuss improvements or new features.
-License
+
+### License
 
 This project is licensed under the MIT License.
